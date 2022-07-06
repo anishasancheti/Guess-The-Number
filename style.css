@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital@1&display=swap');
+body{
+    background-image: url(./assets/num.png);
+    margin: 0;
+}
+.container{
+    height: 500px;
+    width:70%;
+    background-color: pink;
+    margin-top: 125px;
+    margin-left: 15%;
+    display: flex;
+    justify-content: center;
+}
+.row{
+    margin-top: 150px;
+    text-align: center;
+}
+#head{
+    font-family: 'Vollkorn', serif;
+    font-size: 40px;
+}
+#out{
+    font-family: 'Vollkorn', serif;
+    font-size: 25px;
+}
+button{
+    color: white;
+    font-weight: bold;
+    background-color: black;
+}
